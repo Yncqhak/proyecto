@@ -5,7 +5,7 @@ body {
 
 /* Encabezado azul con letras grises */
 header {
-    background-color: blue;
+    background-color: rgb(4, 4, 241);
     color: rgb(147, 142, 142);
 }
 
